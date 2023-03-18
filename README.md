@@ -74,7 +74,7 @@ License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 Acknowledgments
-(Optional) If you want to acknowledge any external resources or inspiration for your project, you can add them here.
+ If you want to acknowledge any external resources or inspiration for your project, you can add them here.
 
 
 
