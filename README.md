@@ -5,25 +5,29 @@
 - This is a simple Tic Tac Toe game built with HTML, CSS, and 
 <h1 align="center" >Features</h1>
 
-Two-player game mode
-Error handling for invalid inputs
-Interactive game board
+- Two-player game mode
+- Error handling for invalid inputs
+- Interactive game board
 <h1 align="center" >Requirements</h1>
-Python 3.x
-JavaScript
-HTML
-CSS
+
+- Python 3.x
+- JavaScript
+- HTML
+- CSS
 <h1 align="center" >Getting Started</h1>
-Clone the repository
-bash
-Copy code
+
+<h2 align="center" >Clone the repository</h2>
+<h3 align="center" >bash</h3>
+<h4 align="center" >Copy code</h4>
+
 git clone https://github.com/your-username/tic-tac-game.git
-Navigate to the project directory
-bash
-Copy code
+<h1 align="left" >Navigate to the project directory</h1>
+<h3 align="center" >bash</h3>
+<h4 align="center" >Copy code</h4>
+
 cd tic-tac-game
-Run the game
-Copy code
+Run the game<br>
+<h4 align="center" >Copy code</h4>
 python tic_tac_game.py
 <h1 align="center" >How to Play</h1>
 The game board is a 3x3 grid.
