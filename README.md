@@ -51,9 +51,17 @@ git clone:- https://github.com/your-username/tic-tac-game.git<hr>
 
 - This project is licensed under the MIT License. See the LICENSE file for details.
 <hr>
-<h1 align="center" >Acknowledgments📚</h1>
+<h1 align="center" >Acknowledgments:📚</h1>
 
-- If you want to acknowledge any external resources or inspiration for your project, you can add them here.
+- We would like to express our deepest appreciation to everyone who has contributed to the development of this Tic Tac Toe game.
+
+- First and foremost, we want to thank our team members who worked tirelessly to create this game. Their dedication, hard work, and creativity were instrumental in bringing this project to life.
+
+- We also want to extend our gratitude to the open-source community for providing us with the resources and tools that we needed to build this game. Without the contributions of countless individuals and organizations, this project would not have been possible.
+
+- Finally, we want to thank our users for their support and feedback. Your input has helped us improve this game and make it the best that it can be.
+
+- Thank you all for being a part of this project!
 <hr>
 
 
