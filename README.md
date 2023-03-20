@@ -2,7 +2,9 @@
 <h1 align="center" >Tic Tac Game 🎮</h1>
 
 - This is a simple command-line Tic Tac Toe game built with Python.
-- This is a simple Tic Tac Toe game built with HTML, CSS, and JavaScript.<hr>
+- This is a simple Tic Tac Toe game built with HTML, CSS, and JavaScript.
+<p align="center">
+<img height="200" wedith="200" src="https://bartvwezel.nl/wp-content/uploads/2020/09/ezgif.com-video-to-gif-8.gif"></p><hr>
 <h1 align="center" >Features👩‍💻</h1>
 
 - Two-player game mode
@@ -20,8 +22,8 @@
 <h3 align="center" >bash📖</h3>
 <h4 align="center" >Copy code📝</h4>
 
-git clone:- https://github.com/your-username/tic-tac-game.git<hr>
-<h1 align="left" >Navigate to the project directory💡</h1>
+<p align="center">git clone:-<br> https://github.com/your-username/tic-tac-game.git</p><hr>
+<h1 align="center" >Navigate to the project directory💡</h1>
 <h3 align="center" >bash📖</h3>
 <h4 align="center" >Copy code📝</h4>
 
