@@ -3,6 +3,7 @@ const board = document.getElementById("board");
 const resetButton = document.getElementById("reset");
 let player = "X";
 
+
 function createCell() {
   const cell = document.createElement("div");
   cell.classList.add("cell");
