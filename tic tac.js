@@ -11,6 +11,8 @@ function createCell() {
   return cell;
 }
 
+
+
 function handleClick(event) {
   if (!event.target.textContent) {
     event.target.textContent = player;
