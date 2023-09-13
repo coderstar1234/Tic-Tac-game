@@ -1,5 +1,5 @@
 
-<h1 align="center" >Tic Tac Game 🎮</h1>
+<h1 align="center" >Tic Tac Game:- 🎮</h1>
 
 - This is a simple command-line Tic Tac Toe game built with Python.
 - This is a simple Tic Tac Toe game built with HTML, CSS, and JavaScript.
