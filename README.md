@@ -5,7 +5,7 @@
 - This is a simple Tic Tac Toe game built with HTML, CSS, and JavaScript.
 <p align="center">
 <img height="200" wedith="200" src="https://bartvwezel.nl/wp-content/uploads/2020/09/ezgif.com-video-to-gif-8.gif"></p><hr>
-<h1 align="center" >Features👩‍💻</h1>
+<h1 align="center" >Features:- 👩‍💻</h1>
 
 - Two-player game mode
 - Error handling for invalid inputs
