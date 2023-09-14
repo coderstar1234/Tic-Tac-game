@@ -10,7 +10,7 @@
 - Two-player game mode
 - Error handling for invalid inputs
 - Interactive game board<hr>
-<h1 align="center" >Requirements🧾</h1>
+<h1 align="center" >Requirements:-🧾</h1>
 <p align="center" >
 <img height="100" wedith="100" src="https://th.bing.com/th/id/OIP.Isi5uf1b_fxf3bDcEYj-9AHaHa?pid=ImgDet&rs=1"></p>
 <a align="left">
