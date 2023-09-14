@@ -32,7 +32,7 @@
 <h4 align="center" >Copy code📝</h4>
 
 - cd tic-tac-game<hr>
-<h4 align="center" >Run the game🏃</h4>
+<h4 align="center" >Run the game:-🏃</h4>
 <h4 align="center" >Copy code📝</h4>
 
 - python tic_tac_game.py<hr>
