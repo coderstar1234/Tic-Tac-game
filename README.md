@@ -53,7 +53,7 @@
 
 - If you find any issues or bugs, feel free to open an issue on GitHub. Pull requests are also welcome.
 <hr>
-<h1 align="center" >License📙</h1>
+<h1 align="center" >License:-📙</h1>
 
 - This project is licensed under the MIT License. See the LICENSE file for details.
 <hr>
