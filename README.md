@@ -20,7 +20,7 @@
 - HTML
 - CSS</a>
 <hr>
-<h1 align="center" >Getting Started🖐️</h1>
+<h1 align="center" >Getting Started:-🖐️</h1>
 
 <h2 align="center" >Clone the repository✏️</h2>
 <h3 align="center" >bash📖</h3>
