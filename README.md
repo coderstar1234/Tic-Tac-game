@@ -27,7 +27,7 @@
 <h4 align="center" >Copy code📝</h4>
 
 <p align="center">git clone:-<br> https://github.com/your-username/tic-tac-game.git</p><hr>
-<h1 align="center" >Navigate to the project directory💡</h1>
+<h1 align="center" >Navigate to the project directory:-💡</h1>
 <h3 align="center" >bash📖</h3>
 <h4 align="center" >Copy code📝</h4>
 
