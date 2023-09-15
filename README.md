@@ -36,7 +36,7 @@
 <h4 align="center" >Copy code📝</h4>
 
 - python tic_tac_game.py<hr>
-<h1 align="center" >How to Play🎭</h1>
+<h1 align="center" >How to Play:-🎭</h1>
 
 - The game board is a 3x3 grid.<br>
 
