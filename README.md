@@ -57,7 +57,7 @@
 
 - This project is licensed under the MIT License. See the LICENSE file for details.
 <hr>
-<h1 align="center" >Acknowledgments:📚</h1>
+<h1 align="center" >Acknowledgments:-📚</h1>
 
 - We would like to express our deepest appreciation to everyone who has contributed to the development of this Tic Tac Toe game.
 
